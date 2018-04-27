@@ -1,3 +1,6 @@
+                                             /*Minesweeper with undo/lifelines using C language
+                                                                                        -By CodeLogist
+                                                                                                        */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
